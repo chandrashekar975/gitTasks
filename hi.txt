@@ -1,0 +1,2 @@
+//random text file
+This is a random text file created for testing purposes. It contains some random sentences and words to fill up the space. The purpose of this file is to provide a sample input for various text processing tasks. It can be used to test functions that read, write, or manipulate text data. The content of this file is not meaningful and is only intended for testing and demonstration purposes.
