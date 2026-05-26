@@ -1,0 +1,54 @@
+//random south indian breakfast food menu
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <name>Idli</name>
+        <description>Steamed rice cakes served with sambar and chutney.</description>
+        <price>30</price>
+    </item>
+    <item>
+        <name>Dosa</name>
+        <description>Crispy fermented rice and lentil crepe filled with spiced potatoes.</description>
+        <price>50</price>
+    </item>
+    <item>
+        <name>Vada</name>
+        <description>Deep-fried savory doughnut made from urad dal, served with sambar and chutney.</description>
+        <price>40</price>
+    </item>
+    <item>
+        <name>Pongal</name>
+        <description>Comforting dish made from rice and moong dal, flavored with black pepper and cumin.</description>
+        <price>35</price>
+    </item>
+    <item>
+        <name>Upma</name>
+        <description>Savory semolina porridge cooked with vegetables and tempered with mustard seeds.</description>
+        <price>25</price>
+    </item>
+    <item>
+        <name>Medu Vada</name>
+        <description>Soft and fluffy deep-fried lentil doughnuts, typically served with sambar and coconut chutney.</description>
+        <price>45</price>   
+    </item>
+    <item>
+        <name>Rava Kesari</name>
+        <description>Sweet semolina pudding flavored with saffron and garnished with nuts.</description>
+        <price>30</price>
+    </item>
+    <item>
+        <name>Appam</name>
+        <description>Soft and fluffy rice pancakes with a crispy edge, often served with vegetable stew or coconut milk.</description>
+        <price>40</price>
+    </item>
+    <item>
+        <name>Kesari Bath</name>
+        <description>Sweet semolina dish flavored with cardamom and garnished with cashews and raisins.</description>
+        <price>30</price>
+    </item>
+    <item>
+        <name>Rava Dosa</name>
+        <description>Crispy and thin dosa made from semolina, rice flour, and spices.</description>
+        <price>45</price>
+    </item>
+</menu>
